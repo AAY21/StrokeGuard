@@ -54,9 +54,3 @@ The dataset includes patient information such as:
 **Target Variable:** `stroke` (1 = Stroke, 0 = No Stroke)
 
 ---
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/cerebral-stroke-prediction.git
-   cd cerebral-stroke-prediction
