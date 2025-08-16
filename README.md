@@ -9,7 +9,7 @@ The goal of this project is to analyze patient health records and develop a mode
 
 ## Repository Structure
 - `Cereberal_Dataset.csv` — The dataset used for training and evaluation.
-- `Cerebral_stroke(Aayush).ipynb` — Jupyter Notebook containing data preprocessing, exploratory data analysis (EDA), and model building.
+- `Cerebral_stroke.ipynb` — Jupyter Notebook containing data preprocessing, exploratory data analysis (EDA), and model building.
 - `README.md` — Project documentation.
 - `LICENSE` — License for open-source usage.
 
